@@ -1,0 +1,35 @@
+
+.element1{
+    background-image: url('../public/login.png');
+    background-size: cover;
+    width:50%;
+    height:100%;
+    left:0px;
+    position: absolute;
+    }
+    .register{
+        width:max-content;
+        height:max-content;
+        background-color: #ebf3ff;
+        border-radius: 20px;
+        padding : 30px 60px 30px 60px;
+        position: relative;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    
+    }
+    .element{
+        width:50%;
+        height:100%;
+        right:0px;
+        position: absolute;
+        
+    }
+    h3{
+        text-align: center;
+    }
+    .button{
+       text-align: center;
+    }
+    
